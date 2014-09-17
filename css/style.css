@@ -1075,11 +1075,13 @@ div.content-box.big div.content-box-info p {
 }
 
 .fun-wrap {
-    background: url('../img/plx3.jpg') 50% 0 no-repeat fixed;
+    background: url('../img/slider/bx1.jpg') 50% 0 no-repeat fixed;
 }
 
 .service-wrap {
-    background: rgba(37, 39, 88, 0.9);
+    background: url('../img/servicebg.jpg') 50% no-repeat fixed;
+    background-size: cover;
+
 }
 
 
